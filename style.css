@@ -1,0 +1,19 @@
+*{
+    background-color: #ffffaf;
+}
+div{
+    display:flex;
+    height:500px;
+    width:100%;
+}
+.image{
+    height:750px;
+    width:750px;
+}
+pre{
+    color: cornflowerblue;
+}
+#slide{
+    display:flex;
+
+}
